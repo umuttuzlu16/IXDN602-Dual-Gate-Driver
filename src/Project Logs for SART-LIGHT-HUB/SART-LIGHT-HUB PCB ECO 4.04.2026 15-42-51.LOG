@@ -1,0 +1,80 @@
+Added Component: Designator=C1(CAP 1206_3216)
+Added Component: Designator=C2(CAP 1206_3216)
+Added Component: Designator=C3(CAP 1206_3216)
+Added Component: Designator=C4(CAP 1206_3216)
+Added Component: Designator=C5(CAP 1206_3216)
+Added Component: Designator=C6(CAP 1206_3216)
+Added Component: Designator=P1(PAD)
+Added Component: Designator=P2(PAD)
+Added Component: Designator=P3(PAD)
+Added Component: Designator=P4(PAD)
+Added Component: Designator=P5(PAD)
+Added Component: Designator=P6(PAD)
+Added Component: Designator=P7(PAD)
+Added Component: Designator=P8(PAD)
+Added Component: Designator=P9(PAD)
+Added Component: Designator=P10(PAD)
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Added Component: Designator=U2(SOIC127P600X175-8N)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=P1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-5
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=P2-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-7
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=P7-1
+Added Pin To Net: NetName=NetC4_2 Pin=U2-5
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=P8-1
+Added Pin To Net: NetName=NetC5_2 Pin=U2-7
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U1-4
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=U1-2
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP9_1 Pin=P9-1
+Added Pin To Net: NetName=NetP9_1 Pin=U2-4
+Added Net: Name=NetP9_1
+Added Pin To Net: NetName=NetP10_1 Pin=P10-1
+Added Pin To Net: NetName=NetP10_1 Pin=U2-2
+Added Net: Name=NetP10_1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Pin To Net: NetName=VCC Pin=U2-6
+Added Net: Name=VCC
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C1 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C2 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C3 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C4 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C5 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C6 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P1 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P2 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P3 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P4 Pad1
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P5 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P6 Pad1
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P7 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P8 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P9 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P10 Pad1
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component U1 IXDN604SIA
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component U2 IXDN604SIA

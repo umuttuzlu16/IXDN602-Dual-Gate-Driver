@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=VCC Pin=P5-1
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Member From Class: ClassName=SART-LIGHT-HUB Member=P5
+Removed Member From Class: ClassName=SART-LIGHT-HUB Member=P6
+Add Component: Footprint Not Found Power Pad
+Add Component: Footprint Not Found Power Pad
+Added Component: Designator=C7(CAP 1206_3216)
+Added Component: Designator=C8(CAP 1206_3216)
+Added Component: Designator=C9(CAP 1206_3216)
+Added Component: Designator=C10(CAP 1206_3216)
+Added Component: Designator=C11(CAP 1206_3216)
+Added Component: Designator=C12(CAP 1206_3216)
+Added Component: Designator=P11(PAD)
+Added Component: Designator=P12(PAD)
+Added Component: Designator=P13(PAD)
+Added Component: Designator=P14(PAD)
+Added Component: Designator=P17(PAD)
+Added Component: Designator=P18(PAD)
+Added Component: Designator=P19(PAD)
+Added Component: Designator=P20(PAD)
+Added Component: Designator=U3(SOIC127P600X175-8N)
+Added Component: Designator=U4(SOIC127P600X175-8N)
+Add Pin To Net: Unknown Pin: Pin *-0
+Add Pin To Net: Unknown Pin: Pin *?-0
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VCC Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC Pin=C12-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=VCC Pin=U4-6
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=P11-1
+Added Pin To Net: NetName=NetC7_2 Pin=U3-5
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=P12-1
+Added Pin To Net: NetName=NetC8_2 Pin=U3-7
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=P17-1
+Added Pin To Net: NetName=NetC10_2 Pin=U4-5
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=P18-1
+Added Pin To Net: NetName=NetC11_2 Pin=U4-7
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetP13_1 Pin=P13-1
+Added Pin To Net: NetName=NetP13_1 Pin=U3-4
+Added Net: Name=NetP13_1
+Added Pin To Net: NetName=NetP14_1 Pin=P14-1
+Added Pin To Net: NetName=NetP14_1 Pin=U3-2
+Added Net: Name=NetP14_1
+Added Pin To Net: NetName=NetP19_1 Pin=P19-1
+Added Pin To Net: NetName=NetP19_1 Pin=U4-4
+Added Net: Name=NetP19_1
+Added Pin To Net: NetName=NetP20_1 Pin=P20-1
+Added Pin To Net: NetName=NetP20_1 Pin=U4-2
+Added Net: Name=NetP20_1
+Add Class Member: Failed to add class member : Component *? Power Pad
+Add Class Member: Failed to add class member : Component * Power Pad
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C7 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C8 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C9 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C10 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C11 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component C12 1206, 10uF
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P11 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P12 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P13 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P14 Pad1
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P17 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P18 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P19 Pad0
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component P20 Pad1
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component U3 IXDN604SIA
+Added Member To Class: ClassName=SART-LIGHT-HUB Member=Component U4 IXDN604SIA

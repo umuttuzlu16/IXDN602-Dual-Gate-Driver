@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=IXDN602-Dual-Gate-Driver.PrjPcb
+[Project2]
+ProjectPath=..\lib\IXDN604SIA\IXDN604SIA.LibPkg
+[Project3]
+ProjectPath=..\lib\Passives\Passives.LibPkg
